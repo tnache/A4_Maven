@@ -41,6 +41,7 @@
                 <version>6.5.0</version>
                 <configuration>
                     <failBuildOnCVSS>8</failBuildOnCVSS>
+                    <format>XML</format>
                 </configuration>
                 <executions>
                     <execution>
